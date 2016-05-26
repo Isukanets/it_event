@@ -1,0 +1,134 @@
+/*PAGE MAIN */
+.page-main {
+    padding: 10px 0px 0px;
+        padding-top: 10px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+    min-height: 1000px;
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-family: MuseoSans,Helvetica,Arial,sans-serif;
+font-size: 16px;
+color: #1A1919;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+}
+
+.col-md-12 {
+    width: 100%;
+    float: left;
+    position: relative;
+min-height: 1px;
+padding-left: 0px;
+padding-right: 0px;
+    padding-top: 110px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    
+}
+
+/*article-content*/
+.col-sm-5 {
+    width: 41.6667%;
+    float: left;
+        position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+
+.single-thumb {
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.single-thumb img {
+    max-width: 100%;
+    display: inline-block;
+    height: auto;
+    vertical-align: middle;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-top-color: -moz-use-text-color;
+    border-right-color: -moz-use-text-color;
+    border-bottom-color: -moz-use-text-color;
+    border-left-color: -moz-use-text-color;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    box-sizing: border-box;
+}
+
+.text-label {
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.col-sm-7 {
+    width: 58.3333%;
+    float: left;
+    position: relative;
+min-height: 1px;
+padding-left: 15px;
+padding-right: 15px;
+    box-sizing: border-box;
+}
+
+.article-section {
+    margin-bottom: 40px;
+    box-sizing: border-box;
+}
+
+.article h1 {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+}
+
+.speaker-page-title {
+    font-size: 40px;
+    margin-bottom: 90px;
+    max-width: 50%;
+    font-weight: 700;
+}
+
+p {
+    margin: 0px 0px 1.55em;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 1.55em;
+        margin-left: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+/*END article-content*/
+
+
+/
+/* END PAGE-MEIN*/
